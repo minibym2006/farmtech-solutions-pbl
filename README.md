@@ -15,7 +15,7 @@ Através dos dados fornecidos no arquivo `crop_yield.csv`, nosso time desenvolve
 
 Todo o processo de raciocínio, limpeza de dados, análise gráfica e modelagem está documentado e comentado passo a passo no nosso Jupyter Notebook.
 
-👉 **[Clique aqui para acessar o Jupyter Notebook do projeto](MatheusCosta_rm568028.ipynb)**
+👉 **[Clique aqui para acessar o Jupyter Notebook do projeto](https://colab.research.google.com/drive/1Y3WNJmDd1YgrT1butMcDWC522IUr8GAb)**
 
 ## 🎥 Demonstração em Vídeo
 
