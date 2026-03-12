@@ -17,12 +17,6 @@ Todo o processo de raciocínio, limpeza de dados, análise gráfica e modelagem 
 
 👉 **[Clique aqui para acessar o Jupyter Notebook do projeto](https://colab.research.google.com/drive/1Y3WNJmDd1YgrT1butMcDWC522IUr8GAb)**
 
-## 🎥 Demonstração em Vídeo
-
-Preparamos um vídeo rápido de apresentação demonstrando o funcionamento do projeto, os principais achados na base de dados e a performance dos modelos preditivos.
-
-👉 **[Assista à demonstração no YouTube](COLOQUE_SEU_LINK_AQUI)**
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python
